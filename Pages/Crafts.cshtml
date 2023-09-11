@@ -1,0 +1,54 @@
+﻿@page
+@model CraftsModel
+@{
+    ViewData["Title"] = "Crafts Page";
+    var num = 0;
+}
+<h1><u>@ViewData["Title"]</u></h1>
+
+<h3>A. Making crafts on topic trees</h3>
+<p>
+    <ol>
+        <li>
+            Crafting with a tree-inspired theme connects us with the beauty of nature, bringing the outdoors inside through our creative projects.
+        </li>
+        <li>
+            Whether you're painting a tranquil forest scene or carving rustic wooden ornaments, tree-themed crafts celebrate the intricate textures and patterns found in the bark, branches, and leaves.
+        </li>
+        <li>
+            These crafts offer a unique opportunity to appreciate the wonders of the natural world while channeling our creativity into meaningful and visually appealing creations.
+        </li>
+        <li>
+            Crafting with a tree motif not only produces beautiful items but also serves as a gentle reminder of the importance of preserving our environment for future generations.
+        </li>
+        <li>
+            As we immerse ourselves in tree-themed crafting, we engage in an eco-conscious and fulfilling journey that connects us with nature while indulging in the joy of artistic expression.
+
+        </li>
+    </ol>
+</p>
+
+<h3>B. Different users are: </h3>
+<div class="card-coloumns">
+    @foreach (var pr in Model.Products)
+    {
+        num++; // Increment num for each iteration
+        <div class="card" style="margin-top: 10px; border-radius: 20px;">
+                <div style="margin: 10px">
+                    <big style="color:rgb(252, 144, 3);">
+                        ID @num
+                    </big>
+                    Project: @pr.Id, <br />
+                    Maker: @pr.Maker,<br />
+                    Title: @pr.Title,<br />
+                    Description: @pr.Description,<br />
+                <div style="background-image: url('@pr.Image'); height:500px; width: auto;
+  border: 3px solid black; background-size: cover; margin: 20px; border-radius: 20px;"></div>
+                </div>
+            </div>
+    }
+</div>
+<h3 style="margin-top:10px">C. Below is JSON format: </h3>
+<iframe width="100%" height="315" src="/products" style="margin-top:10px"></iframe>
+
+
