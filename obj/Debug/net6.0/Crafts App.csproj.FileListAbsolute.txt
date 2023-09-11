@@ -1,0 +1,30 @@
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.staticwebassets.runtime.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.exe
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.deps.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.runtimeconfig.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.dll
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\bin\Debug\net6.0\Crafts App.pdb
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.AssemblyInfoInputs.cache
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.AssemblyInfo.cs
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.csproj.CoreCompileInputs.cache
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.RazorAssemblyInfo.cache
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.RazorAssemblyInfo.cs
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets\msbuild.Crafts App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets\msbuild.build.Crafts App.props
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Crafts App.props
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Crafts App.props
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\scopedcss\bundle\Crafts App.styles.css
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\scopedcss\projectbundle\Crafts App.bundle.scp.css
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.dll
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\refint\Crafts App.dll
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.pdb
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\Crafts App.genruntimeconfig.cache
+C:\Users\Piyush.Pandita\OneDrive - Wolters Kluwer\C# Programs\WebApps\JokesApp\obj\Debug\net6.0\ref\Crafts App.dll
